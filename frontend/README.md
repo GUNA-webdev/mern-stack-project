@@ -1,7 +1,7 @@
 # Restaurant Reservation System (Frontend)
 
 ## Description
-This project is the frontend of an e-commerce website developed using React and Vite. It includes responsive product pages, shopping cart, and user authentication interfaces.
+- This web page allows the user to make a reservation and 
 
 ## Technologies Used
 - React
