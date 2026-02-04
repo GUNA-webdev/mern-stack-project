@@ -1,22 +1,25 @@
 # Restaurant Reservation System (Frontend)
 
 ## Description
-- This web page allows the user to make a reservation and 
+ - This is the frontend of a simple restaurant reservation system. I built it using React(JSX) to let users easily
+   reserve a table by entering their details like name,mobile number, email, number of guests, date, and time.
 
-## Technologies Used
-- React
-- Vite
-- HTML, CSS, Bootstrap
-- Axios (for API calls)
+## Features 
+ -  Simple and responsive reservation form.
+ -  Input validations to ensure correct data.
+ -  Clean design using CSS and Bootstrap.
+ -  Small UI enhancements using React Icons.
 
-## My Contribution
-- Developed the complete frontend of the application.
-- Designed responsive UI components.
-- Integrated APIs for dynamic product data.
-- Implemented routing and state management.
+## Technologies
+ -  React (JSX) – to build the website pages.
+ -  CSS & Bootstrap – for styling and layout.
+ -  React Router DOM – for navigating between pages.
+ -  Axios – to connect with backend APIs.
+ -  React Hot Toast – for notifications.
+ -  React Icons – for better visuals.
 
-## How to Run
-1. Clone the repo
-2. Navigate to the `frontend` folder
-3. Run `npm install`
-4. Run `npm run dev` to start the development server
+## What I Did
+- Built the frontend using React (JSX).
+- Styled the pages using CSS and Bootstrap also used a react icons to make it look more good.
+- Focused mainly on form handing and input validation.
+- Integrated frontend components with backend API to submit and display reservation data. 
