@@ -8,7 +8,7 @@
 
 ## What I Did
 - Built the frontend using React (JSX).
-- Styled the pages using CSS and Bootstrap and used a react icons to make it look more good.
+- Styled the pages using CSS and Bootstrap also used a react icons to make it look more good.
 - Focused mainly on frontend development and the UI which handle the user inputs with proper validations.
 - Integrated frontend components with backend API to display and submit reservation data. 
 
