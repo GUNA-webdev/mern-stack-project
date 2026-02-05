@@ -25,17 +25,19 @@
 - Integrated frontend components with backend API to submit and display reservation data.
 
 ## To run this locally
-1. clone the repository:
+
+1. Clone the repository:
    git clone https://github.com/GUNA-webdev/mern-stack-project.git
-   
-2.Navigate to the frontend  folder:
-  cd mern-stack-project/frontend
-  
-3.install dependencies:
-  npm install
-  
-4.start the development server
-  npm run dev
-  
-5.open http://localhost:5173 in your browser. 
+
+2. Navigate to the frontend folder:
+   cd mern-stack-project/frontend
+
+3. Install dependencies:
+   npm install
+
+4. Start the development server:
+   npm run dev
+
+5. Open http://localhost:5173 in your browser.
+
 
