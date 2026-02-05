@@ -22,4 +22,16 @@
 - Built the frontend using React (JSX).
 - Styled the pages using CSS and Bootstrap also used a react icons to make it look more good.
 - Focused mainly on form handing and input validation.
-- Integrated frontend components with backend API to submit and display reservation data. 
+- Integrated frontend components with backend API to submit and display reservation data.
+
+## To run this locally
+1. clone the repository:
+   git clone https://github.com/GUNA-webdev/mern-stack-project.git
+2.Navigate to the frontend  folder:
+  cd mern-stack-project/frontend
+3.install dependencies:
+  npm install
+4.start the development server
+  npm run dev
+5.open http://localhost:5173 in your browser. 
+
